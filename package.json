@@ -1,0 +1,14 @@
+{
+  "name": "letmeshowyoutheworldthroughmyeyes",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Fábio Santos",
+  "license": "WTFPL",
+  "dependencies": {
+    "http-proxy": "~0.10.4"
+  }
+}
